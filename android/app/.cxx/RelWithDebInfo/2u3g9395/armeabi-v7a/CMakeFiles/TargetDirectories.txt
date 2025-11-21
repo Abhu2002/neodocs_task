@@ -1,0 +1,2 @@
+/Users/neo/Documents/pocket-secure-flutter/android/app/.cxx/RelWithDebInfo/2u3g9395/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/neo/Documents/pocket-secure-flutter/android/app/.cxx/RelWithDebInfo/2u3g9395/armeabi-v7a/CMakeFiles/rebuild_cache.dir

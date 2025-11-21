@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/ntipl/Flutter_SDK/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/ntipl/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/ntipl/Desktop/pocket-secure-flutter/android/app/.cxx/Debug/3t3v425t/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/ntipl/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/ntipl/Desktop/pocket-secure-flutter/android/app/.cxx/Debug/3t3v425t/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

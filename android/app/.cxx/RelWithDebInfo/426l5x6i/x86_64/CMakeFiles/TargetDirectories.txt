@@ -1,0 +1,2 @@
+/Users/ntipl/Desktop/pocket-secure-flutter/android/app/.cxx/RelWithDebInfo/426l5x6i/x86_64/CMakeFiles/edit_cache.dir
+/Users/ntipl/Desktop/pocket-secure-flutter/android/app/.cxx/RelWithDebInfo/426l5x6i/x86_64/CMakeFiles/rebuild_cache.dir
